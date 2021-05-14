@@ -4,7 +4,7 @@ My name is Ericlys Lima!
 
 I am currently studying Systems Analysis and Development!
 
-I am an aficionado of the world of technology, always in search of knowledge!
+I am passionate about the world of technology, always in search of knowledge!
 
 "Keep an open mind for all kinds of knowledge, because anything has the power to inspire you positively."
 
