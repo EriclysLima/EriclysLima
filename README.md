@@ -6,9 +6,10 @@ I am currently studying Systems Analysis and Development!
 
 I am an aficionado of the world of technology, always in search of knowledge!
 
-📌 Ceara/Brasil
-📖 Student
-💻 future full stack
+-📌 Ceara/Brasil
+-📖 Student
+-💻 future full stack
+- Treine, até ser impossível errar"
 
 find me 👇🏼
 
