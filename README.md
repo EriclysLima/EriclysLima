@@ -6,7 +6,7 @@ I am currently studying Systems Analysis and Development!
 
 I am an aficionado of the world of technology, always in search of knowledge!
 
-"Tenha a mente aberta para todo tipo de conhecimento, pois qualquer coisa tem o poder te inspirar positivamente."
+"Keep an open mind for all kinds of knowledge, because anything has the power to inspire you positively."
 
 - 📌 Ceara/Brasil
 - 📖 Student
