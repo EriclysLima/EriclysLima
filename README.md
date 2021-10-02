@@ -17,6 +17,7 @@ I am passionate about the world of technology, always in search of knowledge!
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=EriclysLima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclysLima&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+  
 
 Find me 👇🏼
 
