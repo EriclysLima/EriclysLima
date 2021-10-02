@@ -10,7 +10,7 @@ I am passionate about the world of technology, always in search of knowledge!
 
 - 📌 Ceara/Brasil
 - 📖 Student
-- 💻 future full stack
+- 💻 Front-end/Full-Stack
 
 <div align="center">
   <a href="https://github.com/EriclysLima">
