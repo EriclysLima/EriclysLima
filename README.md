@@ -31,8 +31,6 @@ I am passionate about the world of technology, always in search of knowledge!
     <br>
     <br>
     </div>
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ygithub.com/EriclysLima&theme=blue-green)
-  
 
 <h2>Find me:<h2>
   
