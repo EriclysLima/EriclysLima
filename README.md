@@ -26,6 +26,6 @@ I am passionate about the world of technology, always in search of knowledge!
         <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
   </div>
 
-<h2>Find me:<h2>
+<h5>Find me:<h5>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ericlys-Lima/)](https://www.linkedin.com/in/Ericlys-Lima/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ericlys_lima_/)](https://www.instagram.com/ericlys_lima_/)
