@@ -8,10 +8,6 @@ I am passionate about the world of technology, always in search of knowledge!
 
 "Keep an open mind for all kinds of knowledge, because anything has the power to inspire you positively."
 
-- 📌 Ceara/Brasil
-- 📖 Student
-- 💻 Front-end/Full-Stack
-
 <div align="center">
   <a href="https://github.com/EriclysLima">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=EriclysLima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -24,6 +20,9 @@ I am passionate about the world of technology, always in search of knowledge!
         <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+    
     <br>
     <br>
     </div>
