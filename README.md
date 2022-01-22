@@ -28,5 +28,5 @@ I am passionate about the world of technology, always in search of knowledge!
 
 <h5>Find me:<h5>
 <a href="https://www.linkedin.com/in/Ericlys-Lima/" target="_blank">
-  <img align="center" src="https://www.linkedin.com/in/Ericlys-Lima/" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
