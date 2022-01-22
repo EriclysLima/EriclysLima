@@ -26,7 +26,7 @@ I am passionate about the world of technology, always in search of knowledge!
         <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
         <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
 </div>
-<h5> ## 🔍 &nbsp;Find me</h5>
+<h5>🔍 &nbsp;Find me</h5>
 <a href="https://www.linkedin.com/in/Ericlys-Lima/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Ericlys Lima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
