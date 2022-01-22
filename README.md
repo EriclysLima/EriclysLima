@@ -1,5 +1,5 @@
 ## Hi 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EriclysLima&color=blue" alt="Profile views" /> </p>
 My name is Ericlys Lima!
 
 I am currently studying Systems Analysis and Development!
