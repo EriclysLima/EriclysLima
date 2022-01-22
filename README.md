@@ -19,7 +19,7 @@ I am passionate about the world of technology, always in search of knowledge!
 </div>
   
   <div>
-        <h5>Skills of Mine:</h5>
+        <h5>🛠 &nbsp;Tech Stack</h5>
         <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
         <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
