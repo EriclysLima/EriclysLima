@@ -8,7 +8,7 @@ I am passionate about the world of technology, always in search of knowledge!
 
 "Keep an open mind for all kinds of knowledge, because anything has the power to inspire you positively."
 
-<h5>⚙️ &nbsp;GitHub Analytics</h5>
+<h5>##⚙️ &nbsp;GitHub Analytics</h5>
 <div align="center">
   <a href="https://github.com/EriclysLima">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=EriclysLima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
