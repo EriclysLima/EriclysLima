@@ -22,6 +22,7 @@ I am passionate about the world of technology, always in search of knowledge!
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
         <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
         <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
+        <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=java">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
         <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
         <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
